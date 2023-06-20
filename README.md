@@ -1,2 +1,3 @@
-# TaskManager
-Task Manager for Vladislave
+# Task Manager
+Влад попросил сделать ему Task Manager, вот мы и решили наговнокодить этот кал
+Извиняемся за представленный выше код
